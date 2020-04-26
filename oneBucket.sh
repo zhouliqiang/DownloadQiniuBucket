@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 # 下载指定bucket的文件
 # 确定登录
 echo "please login, input qiniu.com user name:"
